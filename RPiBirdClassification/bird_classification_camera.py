@@ -148,7 +148,7 @@ def main():
                 fullFileName = (absolute_path + '/static/birdcaptures/' + fileName)
                 camera.capture(fullFileName)
                 checkToken()
-                pushNotifs.push(pushToken, "A "+ className+ " visited you!")  
+                pushNotifs.push(pushToken, "A "+ className + " visited you!")  
                 #print(className, classConfidence, str(classes))
                 print("bird detected: " + className)
                 print((className
