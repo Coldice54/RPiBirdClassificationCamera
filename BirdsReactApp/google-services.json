@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511491058339",
+    "project_id": "birds-app-fad15",
+    "storage_bucket": "birds-app-fad15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511491058339:android:e94a94263630e705962d16",
+        "android_client_info": {
+          "package_name": "com.bandit0s.birdsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511491058339-1o4aorjlbiumcqe1rgrhbk5c57soarjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxoxYdxPXjWI_GlzDBhCz_qlYA6dfvamc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511491058339-1o4aorjlbiumcqe1rgrhbk5c57soarjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
